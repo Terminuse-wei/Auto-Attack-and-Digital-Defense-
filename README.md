@@ -133,7 +133,7 @@ Real-time text overlays show:
 6. Digital Color-Filter Defenses (with detailed explanations)
 
 Below is a complete list of all implemented defenses, grouped by type,
-with concise technical explanations that your导师会非常喜欢.
+with concise technical explanations that your.
 
 ⸻
 
